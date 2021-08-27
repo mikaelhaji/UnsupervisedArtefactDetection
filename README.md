@@ -1,6 +1,19 @@
+
+
+
+<img width="1000" alt="Screen Shot 2021-07-31 at 11 09 02 PM" src="https://user-images.githubusercontent.com/68840767/131073876-d1868c79-11b9-46ef-87d3-adba13d8e54c.png">
+
+
+
 # **Abstract**
 
 Electroencephalography (EEG) is used to diagnose, monitor, and prognosis various neurological diseases.  One of the most difficult aspects of EEG data is its susceptibility to a wide range of non-stationary noises caused by physiological, movement, and equipment artefacts. Existing artefact detection methods are inadequate because they need specialists to manually examine and annotate data for artefact parts. Existing artefact correction or removal methods are ineffective.  In this paper, proposed is a EEG noise-reduction technique that uses an unsupervised learning algorithm to identify eye blinks and jaw clench artefacts. The approach extracts important features and uses an unsupervised detection algorithm to identify EEG artefacts that are particular to a given task and individual. By making the approach, code, and data public, offered is a tool that is both immediately useful and may serve as an essential basis for future research in this area.
+
+
+# **Demo Video**
+https://user-images.githubusercontent.com/68840767/131074065-31848417-4ed9-4b8b-8aa7-d8784228a259.mp4
+
+
 
 # **1.0 ~ Introduction**
 
@@ -97,5 +110,4 @@ where ***P*** is the set of all permutations in [1;***K***] where ***K*** is the
 It is important to note that there are ***K***! permutations in ***P*** which are quite high and the computation of accuracy is therefore prohibitive if we apply this formula blindly. The Hungarian algorithm was used to compute it in ***O(k^3)*** which is significantly faster.
 
 
-# **Demo Video**
 
