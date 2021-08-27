@@ -23,3 +23,6 @@ When conducting the recording sessions required for data collection for BCI devi
 There were six datasets involved in this dataset, three recorded from the primary headset, the modified OpenBCI, and the three other recorded from a Muse. Below is a summary of what each dataset entailed:
 
 
+<img width="629" alt="Screen Shot 2021-08-27 at 12 38 58 AM" src="https://user-images.githubusercontent.com/68840767/131072674-521771e5-3ee2-4111-83ff-85b4a6937691.png">
+
+
